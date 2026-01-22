@@ -19,5 +19,8 @@ int main() {
 }
 # marksresult
 Enter Principal amount: 5000
+
+
 Enter Rate of interest: 5
+
 Enter Time (in years): 2
